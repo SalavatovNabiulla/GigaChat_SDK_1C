@@ -1,42 +1,42 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
-	<InformationRegister uuid="e3940b93-45c7-4991-9625-3f96755c6f9a">
+	<InformationRegister uuid="7eae0768-94fa-4ab9-98e3-26367726d127">
 		<InternalInfo>
-			<xr:GeneratedType name="InformationRegisterRecord.GigaChat_ТокеныАвторизации" category="Record">
-				<xr:TypeId>9901de81-42fb-4109-ab02-c52100c3c7e3</xr:TypeId>
-				<xr:ValueId>0b03367d-0467-48cb-92ec-77583d5767ab</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecord.GigaChat_Диалоги" category="Record">
+				<xr:TypeId>f76f7ea2-7480-4204-87b1-d2ea11e65d8e</xr:TypeId>
+				<xr:ValueId>382dde78-da63-4769-821e-9127490fea16</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterManager.GigaChat_ТокеныАвторизации" category="Manager">
-				<xr:TypeId>a8b8cd36-63b2-4a4e-a4fd-3ce13f57a067</xr:TypeId>
-				<xr:ValueId>5e7086ad-b0b8-45fa-9160-e9bdd7680df4</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterManager.GigaChat_Диалоги" category="Manager">
+				<xr:TypeId>011d9748-d3e4-4579-b30f-e6fc74a2854e</xr:TypeId>
+				<xr:ValueId>f0dec83f-4aaa-4208-8de5-2287c54e9e67</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterSelection.GigaChat_ТокеныАвторизации" category="Selection">
-				<xr:TypeId>96c8c178-477a-4bf8-b8a8-a5b76c46f762</xr:TypeId>
-				<xr:ValueId>87559948-68cf-4a2f-84cf-46a82a5309ab</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterSelection.GigaChat_Диалоги" category="Selection">
+				<xr:TypeId>b5f88ac8-09c7-440a-b261-3713b20bf5d1</xr:TypeId>
+				<xr:ValueId>fafae98a-1281-42d3-8147-105b9cfc26b5</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterList.GigaChat_ТокеныАвторизации" category="List">
-				<xr:TypeId>8ead89db-3dfd-4c9f-a981-d1f16cf05c95</xr:TypeId>
-				<xr:ValueId>f1c11188-a520-44f3-977c-a21b612acdd3</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterList.GigaChat_Диалоги" category="List">
+				<xr:TypeId>8b6bbe13-027d-4613-8614-e3502eb09b5c</xr:TypeId>
+				<xr:ValueId>a498c1e7-a0fc-481e-a127-867e64ac7e03</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordSet.GigaChat_ТокеныАвторизации" category="RecordSet">
-				<xr:TypeId>ea3986f2-d50b-47bc-8268-ea26473e7817</xr:TypeId>
-				<xr:ValueId>37844314-826f-41c2-924e-322c9dd81dcb</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordSet.GigaChat_Диалоги" category="RecordSet">
+				<xr:TypeId>b2a0cb66-6b1d-4f20-810c-c201b57533f7</xr:TypeId>
+				<xr:ValueId>a1824767-68e2-4f73-9254-3d60c29dad9a</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordKey.GigaChat_ТокеныАвторизации" category="RecordKey">
-				<xr:TypeId>6fe307e0-5904-4c59-9379-232e77ac5df6</xr:TypeId>
-				<xr:ValueId>e42b925d-27b7-4ba6-992e-7a835a1d4e0f</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordKey.GigaChat_Диалоги" category="RecordKey">
+				<xr:TypeId>3aba00ab-9acd-48d9-b394-032a07d65155</xr:TypeId>
+				<xr:ValueId>16850fb3-2d07-4c4e-9c30-41737eb02330</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordManager.GigaChat_ТокеныАвторизации" category="RecordManager">
-				<xr:TypeId>d113c3c3-e628-4712-b535-d3c43d668c63</xr:TypeId>
-				<xr:ValueId>48e21e5b-9013-4044-8b59-75500307ec3a</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordManager.GigaChat_Диалоги" category="RecordManager">
+				<xr:TypeId>e68a6c8a-4306-4d15-a728-6fb1d99a3632</xr:TypeId>
+				<xr:ValueId>3370bfdb-eae9-4d3a-93b5-8640648e50f5</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>GigaChat_ТокеныАвторизации</Name>
+			<Name>GigaChat_Диалоги</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Токены авторизации (GigaChat)</v8:content>
+					<v8:content>Диалоги (GigaСhat )</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -46,9 +46,9 @@
 			<DefaultListForm/>
 			<AuxiliaryRecordForm/>
 			<AuxiliaryListForm/>
-			<InformationRegisterPeriodicity>Second</InformationRegisterPeriodicity>
+			<InformationRegisterPeriodicity>Nonperiodical</InformationRegisterPeriodicity>
 			<WriteMode>Independent</WriteMode>
-			<MainFilterOnPeriod>true</MainFilterOnPeriod>
+			<MainFilterOnPeriod>false</MainFilterOnPeriod>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<DataLockControlMode>Managed</DataLockControlMode>
 			<FullTextSearch>DontUse</FullTextSearch>
@@ -64,13 +64,13 @@
 			<ExecuteAfterWriteDataHistoryVersionProcessing>false</ExecuteAfterWriteDataHistoryVersionProcessing>
 		</Properties>
 		<ChildObjects>
-			<Resource uuid="98a00ce7-fa6c-4711-a3c5-976aa41c9195">
+			<Resource uuid="c9ffff7d-5f02-437f-b1a5-1919d1a6ca94">
 				<Properties>
-					<Name>Токен</Name>
+					<Name>Наименование</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Токен</v8:content>
+							<v8:content>Наименование</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -107,13 +107,13 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Resource>
-			<Dimension uuid="431daf1e-873d-4462-87d1-80ee0f3dc272">
+			<Dimension uuid="4271e55f-0dd8-4425-9618-3dbf96b52e7c">
 				<Properties>
-					<Name>ИдентификаторТокена</Name>
+					<Name>ИдентификаторДиалога</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Идентификатор токена</v8:content>
+							<v8:content>Идентификатор диалога</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

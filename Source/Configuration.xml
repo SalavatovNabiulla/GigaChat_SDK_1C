@@ -49,7 +49,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Набиюлла</Vendor>
-			<Version>0.2</Version>
+			<Version>0.3</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -250,6 +250,8 @@
 			<CommonModule>GigaChat_Сервер</CommonModule>
 			<CommonForm>ФормаТестирования</CommonForm>
 			<InformationRegister>GigaChat_ТокеныАвторизации</InformationRegister>
+			<InformationRegister>GigaChat_Диалоги</InformationRegister>
+			<InformationRegister>GigaChat_Сообщения</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
