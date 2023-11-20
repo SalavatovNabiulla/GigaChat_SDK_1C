@@ -49,7 +49,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Набиюлла</Vendor>
-			<Version>0.3</Version>
+			<Version>0.4</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -237,7 +237,7 @@
 			<ConfigurationInformationAddress/>
 			<DataLockControlMode>Managed</DataLockControlMode>
 			<ObjectAutonumerationMode>NotAutoFree</ObjectAutonumerationMode>
-			<ModalityUseMode>DontUse</ModalityUseMode>
+			<ModalityUseMode>Use</ModalityUseMode>
 			<SynchronousPlatformExtensionAndAddInCallUseMode>DontUse</SynchronousPlatformExtensionAndAddInCallUseMode>
 			<InterfaceCompatibilityMode>Taxi</InterfaceCompatibilityMode>
 			<DatabaseTablespacesUseMode>DontUse</DatabaseTablespacesUseMode>
@@ -248,7 +248,8 @@
 			<Language>Русский</Language>
 			<CommonModule>GigaChat_Клиент</CommonModule>
 			<CommonModule>GigaChat_Сервер</CommonModule>
-			<CommonForm>ФормаТестирования</CommonForm>
+			<CommonForm>ФормаДиалоги</CommonForm>
+			<CommonForm>ФормаСообщения</CommonForm>
 			<InformationRegister>GigaChat_ТокеныАвторизации</InformationRegister>
 			<InformationRegister>GigaChat_Диалоги</InformationRegister>
 			<InformationRegister>GigaChat_Сообщения</InformationRegister>
