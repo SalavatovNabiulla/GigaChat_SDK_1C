@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
+	<ConfigVersions>
+		<Metadata name="CommonForm.ФормаТестирования" id="9d3b10ee-4c09-43e6-9067-cc6ce7c7d704" configVersion="f3fe5a2849f9a94ab1659cdc30d0666300000000"/>
+		<Metadata name="CommonForm.ФормаТестирования.Form" id="9d3b10ee-4c09-43e6-9067-cc6ce7c7d704.0" configVersion="4b871c4349c6c94cac4414faafe0a82c00000000"/>
+		<Metadata name="CommonModule.GigaChat_Клиент" id="4795a688-79bc-4df0-8fa8-5ff1d109871a" configVersion="5c12e5c3a0db3c4098fc19b95dd59b0900000000"/>
+		<Metadata name="CommonModule.GigaChat_Клиент.Module" id="4795a688-79bc-4df0-8fa8-5ff1d109871a.0" configVersion="ac14fdfe229a0649ac547dbc07a2775a00000000"/>
+		<Metadata name="CommonModule.GigaChat_Сервер" id="c45c4b7f-bcd7-431e-b356-06e86b7d9411" configVersion="0b9dfc532301b245819cb1d74150cd0c00000000"/>
+		<Metadata name="CommonModule.GigaChat_Сервер.Module" id="c45c4b7f-bcd7-431e-b356-06e86b7d9411.0" configVersion="c012f65c179ce243a5cde1b208573c1800000000"/>
+		<Metadata name="Configuration.GigaChat_SDK_1C" id="c9b95644-8c41-4e7b-b03b-9b9d4edb184a" configVersion="d9818dc355cbf444ac3ca66e4670682d00000000"/>
+		<Metadata name="Configuration.GigaChat_SDK_1C.HomePageWorkArea" id="e11d435f-fe5f-42d7-be17-f335123111d0.8" configVersion="179d17503b4279489c978ef3317d6b5000000000"/>
+		<Metadata name="InformationRegister.GigaChat_ТокеныАвторизации" id="e3940b93-45c7-4991-9625-3f96755c6f9a" configVersion="c5f9643dee0de4488f9a225ecbd203ec00000000">
+			<Metadata name="InformationRegister.GigaChat_ТокеныАвторизации.Dimension.ИдентификаторТокена" id="431daf1e-873d-4462-87d1-80ee0f3dc272"/>
+			<Metadata name="InformationRegister.GigaChat_ТокеныАвторизации.Resource.Токен" id="98a00ce7-fa6c-4711-a3c5-976aa41c9195"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="8ca96137-113c-42d0-a430-2040e9aee796" configVersion="87e9bbd37167684aae8e51ac49ab8b4600000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
