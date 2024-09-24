@@ -12,6 +12,6 @@
 <hr>
 <!-- Donations -->
 
-## About The Project
+## О проекте
 Тест
 
