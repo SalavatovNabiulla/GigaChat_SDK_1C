@@ -1,6 +1,1 @@
-<h1>Поддержать OpenSource разработку</h1>
-<div>
-  Банковские карты РФ ( СБП, SberPay и т.д. )
-  <a href="https://yookassa.ru/my/i/ZvL8t9m7GBvz/l"><img src="https://static.tildacdn.com/tild6636-6466-4464-b166-346631643034/logo.svg" width="150"></a>
-</div>
-<hr/>
+<a href="https://plisio.net/donate/u4IbHC6p" target="_blank"><img src="https://plisio.net/img/donate/donate_dark_icons_mono.png" alt="Donate Crypto on Plisio" width="240" height="80" /></a>
