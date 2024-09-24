@@ -52,43 +52,43 @@
 
 Пошаговая инструкция для начала работы с библиотекой
 
-    1. Для начала вам необходимо перейти  на сайт https://developers.sber.ru/studio/login
+1. Для начала вам необходимо перейти  на сайт https://developers.sber.ru/studio/login
 
 <div align = "center">
 	<img src="https://infostart.ru/upload/iblock/bfd/bfd9317626eef56f64dc7e9f739631bc.png" alt="Project thumbnail" width = "300"/>
 </div>
 
-    2. Нажмите на Sber ID и далее нажмите "По QR-коду"
+2. Нажмите на Sber ID и далее нажмите "По QR-коду"
 
 <div align = "center">
 	<img src="https://infostart.ru/upload/iblock/e17/e17168bbcfae796312965daac7521abd.png" alt="Project thumbnail" width = "300"/>
 </div>
     
-    3. Далее запустите своё мобильное приложение Сбера, отсканируйте появившийся на экране QR и подтвердите вход
+3. Далее запустите своё мобильное приложение Сбера, отсканируйте появившийся на экране QR и подтвердите вход
 
 <div align = "center">
 	<img src="https://infostart.ru/upload/iblock/0f4/0f44acefc315def3ec16822106595d2d.jpg" alt="Project thumbnail" width = "300"/>
 </div>
 
-    4. Затем в списке проектов выберите GigaChat API
+4. Затем в списке проектов выберите GigaChat API
 
 <div align = "center">
 	<img src="https://infostart.ru/upload/iblock/597/597c770bdde8ba962380edc557de28bf.png" alt="Project thumbnail" width = "300"/>
 </div>
 
-    5. Затем откройте проект и нажмите "Сгенерировать токен/новый"
+5. Затем откройте проект и нажмите "Сгенерировать токен/новый"
 
 <div align = "center">
 	<img src="https://infostart.ru/upload/iblock/2d1/2d14f27d212ca1e416b3c70e65d34b2a.png" alt="Project thumbnail" width = "300"/>
 </div>
 
-    6. В появившемся окне скопируйте Авторизационные данные из второго поля
+6. В появившемся окне скопируйте Авторизационные данные из второго поля
 
 <div align = "center">
 	<img src="https://infostart.ru/upload/iblock/ed7/ed7342d3ad559b303a2b714328207d7a.png" alt="Project thumbnail" width = "300"/>
 </div>
 
-    7. И вставьте скопированную строку в функцию "ПолучитьАвторизационныеДанные" в общем модуле "GigaChat_Сервер"
+7. И вставьте скопированную строку в функцию "ПолучитьАвторизационныеДанные" в общем модуле "GigaChat_Сервер"
 
 <div align = "center">
 	<img src="https://infostart.ru/upload/iblock/c41/c416a743eddcd07588547650fc61322e.png" alt="Project thumbnail" width = "300"/>
