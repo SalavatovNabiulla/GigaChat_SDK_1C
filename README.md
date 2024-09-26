@@ -1,5 +1,5 @@
-<!-- Donations -->
 <hr>
+<!-- Donations -->
 <div align = "center">
 	<h3>Поддержать OpenSource разработку</h3>
 	<a href="https://yookassa.ru/my/i/ZvMnfF25nCN8/l">
@@ -9,11 +9,11 @@
 		<b>Банковские карты RUB (СБП, SberPay и т.д.)</b>
 	</div>
 </div>
-<hr>
 <!-- Donations -->
 
-<!-- TG -->
 <hr/>
+
+<!-- TG -->
 <div align = "center">
 	<h3>Вступайте в открытый чат по 1С Разработке</h3>
 	<a href="https://t.me/grokking_1c">
@@ -23,8 +23,9 @@
 <div align = "center">
 	<b><i>Общаемся, делимся мыслями, разработками и полезными материалами!</i></b>
 </div>
-<hr/>
 <!-- TG -->
+
+<hr/>
 
 <!-- Content -->
 <div align = "center">
